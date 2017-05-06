@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationEx</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="menu_delete">Delete</string>
+    <string name="title_activity_add_memory">AddMemory</string>
+    <string name="title_activity_retrieve_memory">RetrieveMemory</string>
+</resources>
